@@ -1,4 +1,4 @@
-# Python-Project-15-Gmail-OTP-Sender
+# Python Project - 15
 # Gmail OTP Sender
 In this video, I demonstrate how to send OTP (One-Time Password) emails using Python's `smtplib`. This is a practical project for those looking to implement email-based verification in their applications.
 
